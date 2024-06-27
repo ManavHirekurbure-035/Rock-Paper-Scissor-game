@@ -19,5 +19,6 @@ Make sure to install pygame library to run the project
 ```
     
 ## Demo
+![demo](https://github.com/ManavHirekurbure-035/Rock-Paper-Scissor-game/assets/114732271/01ed72d4-3cdd-4cfe-9f8c-3a14b137aa16)
 
 
